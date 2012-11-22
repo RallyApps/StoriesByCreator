@@ -1,4 +1,4 @@
-Rally Source Code Check In
+Rally Stories By Creator
 ============
 
 ![Title](https://raw.github.com/RallyApps/StoriesByCreator/master/screenshots/title-screenshot.png)
@@ -37,4 +37,4 @@ Available Rakefile tasks are:
 
 ## License
 
-StoriesByCreator is released under the MIT license.  See the file [LICENSE](https://raw.github.com/RallyApps/StoriesByCreator/master/LICENSE) for the full text.
+StoriesByCreator is released under the MIT license. See the file [LICENSE](https://raw.github.com/RallyApps/StoriesByCreator/master/LICENSE) for the full text.
